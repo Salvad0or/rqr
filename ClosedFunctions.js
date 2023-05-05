@@ -10,5 +10,3 @@ const closed = (n) => {
 
 const func = closed(1);
 func(2); // Результат 3
-
-console.log(func(2))
