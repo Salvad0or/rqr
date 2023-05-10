@@ -11,11 +11,11 @@ const person = Object.create({
             // Эти штуки называются property-discriptors
         },
 
-     
+
 
     })
 
-    
+
 
 
 
